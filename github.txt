@@ -1,0 +1,10 @@
+git remote add origin "<repository url>"
+git push
+git pull
+git commit -a -m "<message>"
+git add -A
+git checkout <branchName>
+git branch <branchName>
+ssh-keygen
+copy the content of ssh key and paste it in git hub
+git -T  git@github.com
