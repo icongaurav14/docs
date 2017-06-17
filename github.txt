@@ -8,3 +8,5 @@ git branch <branchName>
 ssh-keygen
 copy the content of ssh key and paste it in git hub
 git -T  git@github.com
+git merge <branchNameToMerge> execute this command in the branch to which you want to merge.
+git merge firstbranch -- i am in master branch
